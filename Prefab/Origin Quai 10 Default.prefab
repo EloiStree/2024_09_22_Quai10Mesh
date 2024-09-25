@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4628731064843538856}
   m_Layer: 0
-  m_Name: Origin Quai 10
+  m_Name: Origin Quai 10 Default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

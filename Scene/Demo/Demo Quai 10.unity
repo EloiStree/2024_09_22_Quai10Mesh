@@ -388,7 +388,7 @@ PrefabInstance:
     - target: {fileID: 1419251653853346624, guid: 7bee409a984f2084ab17675b3085f184,
         type: 3}
       propertyPath: m_Name
-      value: Origin Quai 10
+      value: Origin Quai 10 WIth Cube
       objectReference: {fileID: 0}
     - target: {fileID: 4628731064843538856, guid: 7bee409a984f2084ab17675b3085f184,
         type: 3}
